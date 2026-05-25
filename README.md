@@ -1,1 +1,2 @@
-<img widht="1600" heitght="588" alt="Image" scr="https://github.com/nicolasmazaiaez/nicolasmazaiaez/issues/1#issue-4516688978"/>
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/9f49e771-1849-4920-afe1-8f9a79a781dc" />
+
